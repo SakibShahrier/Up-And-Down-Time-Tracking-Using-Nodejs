@@ -1,0 +1,8 @@
+{
+  
+  "scripts": {
+    "start": "SET NODE_ENV=staging & nodemon index",
+    "production": "SET NODE_ENV=production & nodemon index",
+    "serve": "nodemon server.js"
+  }
+}

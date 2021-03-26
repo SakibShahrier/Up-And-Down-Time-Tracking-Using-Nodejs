@@ -1,0 +1,7 @@
+External ID,Member,Line ID,Order ID,Order Date,Receipt,Item : Line,Quantity : Line,Description : Line,Rate : Line,Amount : Line
+11058JMRLNgPdhz7r9,11058,1,500000006723670000,2/25/2021,JMRLNgPdhz7r9,Cafe,1,Sodas,3,3
+11058JMRLNgPdhz7r9,11058,2,500000006723670000,2/25/2021,JMRLNgPdhz7r9,Bar,1,Coors Light,3.71,3.71
+11089YxzNTFbjcjcPL,11089,1,500000006724429000,2/25/2021,YxzNTFbjcjcPL,Cafe,1,French Fries,4.95,4.95
+11089YxzNTFbjcjcPL,11089,2,500000006724429000,2/25/2021,YxzNTFbjcjcPL,Bar,1,Modelo,4.64,4.64
+10208dmgzt7Rwrnqmk,10208,1,500000006726425000,2/25/2021,dmgzt7Rwrnqmk,Bar,1,Shock Top,4.64,4.64
+10208dmgzt7Rwrnqmk,10208,2,500000006726425000,2/25/2021,dmgzt7Rwrnqmk,Bar,1,One Hope - Glass,6.5,6.5
